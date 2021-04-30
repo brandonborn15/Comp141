@@ -1,3 +1,4 @@
+import java.io.*;
 public class Leo123leo {
     public static void main(String[] args){
         if( [[ ! $1 =~ ^[A-Z]  && $1 =~ "[@]" ]] ){ 
